@@ -272,14 +272,14 @@ Order Service
 
 | Phase | Duration | Effort | Deliverables |
 |-------|----------|--------|--------------|
-| Assessment & Design | 2 weeks | 40 hours | DDD service boundaries, architecture docs |
-| Build Safety Net | 1 week | 30 hours | Characterization tests, baseline metrics |
-| Implement Services | 4 weeks | 120 hours | All microservices, REST APIs, tests |
-| OpenShift Setup | 1 week | 20 hours | Helm charts, K8s manifests, CI/CD pipeline |
-| E2E Testing | 2 weeks | 60 hours | Playwright test suite, performance tests |
-| Strangler Facade | 1 week | 25 hours | API gateway, traffic routing, feature flags |
-| Traffic Migration | 2 weeks | 40 hours | 5% → 25% → 50% → 100% phased rollout |
-| **TOTAL** | **13 weeks** | **335 hours** | **Production deployment** |
+| Assessment & Design | n days | n hours | DDD service boundaries, architecture docs |
+| Build Safety Net | n days | 30 hours | Characterization tests, baseline metrics |
+| Implement Services | n days | n hours | All microservices, REST APIs, tests |
+| OpenShift Setup | n days | n hours | Helm charts, K8s manifests, CI/CD pipeline |
+| E2E Testing | n days | n hours | Playwright test suite, performance tests |
+| Strangler Facade | n days | n hours | API gateway, traffic routing, feature flags |
+| Traffic Migration | n days | n hours | 5% → 25% → 50% → 100% phased rollout |
+| **TOTAL** | **n weeks** | **n hours** | **Production deployment** |
 
 ---
 
@@ -344,3 +344,4 @@ Order Service
 |---------|------|--------|--------|
 | 1.0 | [Date] | [Name] | Initial analysis |
 | 1.1 | [Date] | [Name] | [Change description] |
+
