@@ -333,21 +333,6 @@ Once legacy-modernizer completes Phase 1 (assessment), move to:
 
 ---
 
-## Timeline & Effort Estimate
-
-| Phase | Duration | Effort | Skill Owner |
-|-------|----------|--------|------------|
-| Assessment | 1-2 weeks | 40 hours | legacy-modernizer |
-| Service Design | 1 week | 30 hours | microservices-architect |
-| Implement Services | 3-4 weeks | 120 hours | java-architect |
-| API Gateway | 1 week | 25 hours | java-architect |
-| Database Migration | 1-2 weeks | 40 hours | java-architect |
-| E2E Testing | 1-2 weeks | 60 hours | playwright-expert |
-| Traffic Migration | 1-2 weeks | 40 hours | DevOps/Manual |
-| **TOTAL** | **10-14 weeks** | **355 hours** | **All** |
-
----
-
 ## Success Criteria
 
 When migration is complete, you will have:
@@ -477,3 +462,4 @@ If you get stuck:
 **Happy migrating! 🚀**
 
 For questions or refinements, reach out to your architecture team.
+
